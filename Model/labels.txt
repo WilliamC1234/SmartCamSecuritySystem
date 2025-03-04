@@ -1,0 +1,3 @@
+0 Person
+1 Nothing
+2 Animal
