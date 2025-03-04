@@ -33,7 +33,7 @@ Instructions:
 
 3. Make an account on Pushover and install the application to your device.
 
-4. Get the token for your device and the user key from Pushover.
+4. Make an application on Pushover, get the token, and then get your user key.
 
 5. Set Arduino up with motion sensor and adjust pins as necessary in IDE.
 
@@ -44,6 +44,8 @@ Instructions:
 8. Adjust the timings as needed.
 
 9. Run the script.
+
+Here is a video on the project by me: https://youtu.be/mGUMiRSGJ6I
 
 
 
