@@ -57,7 +57,7 @@ sendMessage1 = urllib.parse.urlencode({
 # Sets up to send notification if detection on camera
 sendMessage2 = urllib.parse.urlencode({
     "token": token, "user": user,
-    "message": "Person detected on your camera, a snapshot will be sent via email and a recording will be taken.",
+    "message": "Person detected on your camera, a recording will be saved locally.",
 }).encode("utf-8")
 
 # Define recording parameters
